@@ -13,6 +13,7 @@ I got some inspiration for my imaging technique from these art drawings. The lin
 ## 2.Coding Technique Exploration
 
 ![](images/93.png)(https://www.youtube.com/watch?v=MJNy2mdCt20)
+
 These codes often simulate the flow of fluids, gases, etc., through space. First, a flow field needs to be created. It can be an array and visualised as a grid, where each grid represents a position or direction. Thus, the flow field can be defined. Then comes how to generate particles. Write the particle class through class Particle, then initialise it through class Effect and finally use the init function to push new particles in. Finally, they are combined to realise the flow field effect.
 
 ![](images/94.png)(https://www.youtube.com/watch?v=MJNy2mdCt20)
